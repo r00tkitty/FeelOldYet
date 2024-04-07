@@ -1,0 +1,19 @@
+{
+  "name": "feeloldyet.net",
+  "version": "1.0.0",
+  "description": "Feel Old Yet?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r00tkitty/FeelOldYet.git"
+  },
+  "author": "rootkitten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r00tkitty/FeelOldYet/issues"
+  },
+  "homepage": "https://github.com/r00tkitty/FeelOldYet#readme"
+}
